@@ -1,0 +1,33 @@
+div {
+  width: 900px;
+  padding: 20px;
+  border-radius: 10px;
+  background: white;
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: dimgrey;
+}
+
+div a {
+  color: black;
+  border-radius: 10px;
+}
+
+div .kutu {
+  background-color: orange;
+  width: 100px;
+}
+
+h6 {
+  color: orange;
+  font-size: 20px;
+}
+h1 {
+  font-size: 50px;
+}
+
+.paragraf {
+  color: black;
+}
